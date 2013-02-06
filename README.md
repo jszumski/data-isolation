@@ -8,3 +8,5 @@ An iOS app demonstrating the iOS 6.0 data isolation APIs:
 * Photos & Videos - Authorization status does not distinguish between the two media types; features on-demand authorization.
 
 The app also demonstrates how to set a purpose string for each permission.
+
+![Alt text](display-photos.png)
