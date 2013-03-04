@@ -9,4 +9,4 @@ An iOS app demonstrating the iOS 6.0 data isolation APIs:
 
 The app also demonstrates how to set a purpose string for each permission.
 
-![Alt text](display-photos.png)
+![Screenshot of Photos tab](display-photos.png)
